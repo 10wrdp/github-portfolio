@@ -5,14 +5,17 @@ Quality Assurance Specialist 🫶
 <p>
   <ul>
     <li> Executed manual functional and regression tests to help company achieve better communication their services and between customer</li>
-    <li>Wrote E2E testing checklist in accordance with project documention in Confluence</li> (add pictures form confluence) 
-    <li>Reported bugs in Jira management software</li>  (add pictures from jira)
+    <li>Wrote E2E testing checklist in accordance with project documention in Confluence</li> 
+    <li>Reported bugs in Jira management software</li>  
   </ul>
 </p>
 
 <h1>Manual Projects 💪 </h1> 
-Food Ordering Application (Link to different repo)
-compnay collaboration platform
+<ol>
+    <li>Food Ordering Application - Helped company to receive orders from mobile application</li>
+    <li>Company Collaboration Platform - </li>
+    <li>CRM - Used Postman for API testing, looking for bugs that could prevent costumer to use the application</li>
+</ol>
 
 <h2>Manual Testing Responsibilities</h2>
 <ul>
@@ -27,8 +30,12 @@ compnay collaboration platform
 </ul>
 
 <h1>Automation Projects 🚗 </h1>
-Jira clone front end 
-backend
+<ol>
+  <li>Registration form - Conducted E2E testing in registration form using Cypress</li>
+  <li>Jira-like managament software(Frontend) - Wrote tests in VS code in OOP format</li>
+  <li>Jira-like managament software(Backend) - Created test in accordence with API documentation in Confluence, conducted tests in Postman</li>
+</ol>
+
 
 <h2>Automation Testing Responsibilites</h2>
   <ul>
