@@ -1,5 +1,5 @@
 # Hi, I am Jesse!
-Quality Assurance Specialist 🫶
+Quality Assurance Specialist 
 
 <h3>Description:</h3>
 <p>
@@ -9,6 +9,8 @@ Quality Assurance Specialist 🫶
     <li>Reported bugs in Jira management software</li>  
   </ul>
 </p>
+
+<br>
 
 <h1>Manual Projects 💪 </h1> 
 <ol>
@@ -29,6 +31,8 @@ Quality Assurance Specialist 🫶
      collaboration app</li>
 </ul>
 
+<br>
+
 <h1>Automation Projects 🚗 </h1>
 <ol>
   <li>Registration form - Conducted E2E testing in registration form using Cypress</li>
@@ -44,3 +48,14 @@ Quality Assurance Specialist 🫶
     <li>Used Postman for API testing</li>
   </ul>
 
+  <br>
+
+<h2>Relevant skills</h2>
+  <ul>
+    <li>JSON</li>
+    <li>CI/CD</li>
+    <li>OOP</li>
+    <li>HTML</li>
+    <li>GitHub</li>
+    <li>XML</li>
+  </ul>
