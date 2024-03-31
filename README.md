@@ -4,9 +4,12 @@ Quality Assurance Specialist
 <h3>Description:</h3>
 <p>
   <ul>
-    <li> Executed manual functional and regression tests to help company achieve better communication their services and between customer</li>
-    <li>Wrote E2E testing checklist in accordance with project documention in Confluence</li> 
-    <li>Reported bugs in Jira management software</li>  
+    <li>Executed functional, regression and E2E tests to help company achieve better communication between their services and customer</li>
+    <li>Built E2E testing checklist in accordance with project documention in Confluence</li> 
+    <li>Reported bugs in Jira management software</li>
+    <li>Every week communicated effectively in team meetings conducted in SCRUM framework</li>
+    <li>Built E2E tests in order to check website's functionality. Tests were done with Cypress.</li>  
+    <li>Successfully created tests in Postman in order to achieve the highest quality of the website</li>  
   </ul>
 </p>
 
@@ -14,9 +17,9 @@ Quality Assurance Specialist
 
 <h1>Manual Projects 💪 </h1> 
 <ol>
-    <li>Food Ordering Application - Helped company to receive orders from mobile application</li>
-    <li>Company Collaboration Platform - </li>
-    <li>CRM - Used Postman for API testing, looking for bugs that could prevent costumer to use the application</li>
+    <li>Food Ordering Application - Helped company to receive orders from mobile application.</li>
+    <li>Company Collaboration Platform - Reported bugs in JIRA management software to ensure the user usability of the website./li>
+    <li>CRM - Used Postman for API testing, looking for bugs that could prevent customer to use the application.</li>
 </ol>
 
 <h2>Manual Testing Responsibilities</h2>
@@ -35,17 +38,19 @@ Quality Assurance Specialist
 
 <h1>Automation Projects 🚗 </h1>
 <ol>
-  <li>Registration form - Conducted E2E testing in registration form using Cypress</li>
-  <li>Jira-like managament software(Frontend) - Wrote tests in VS code in OOP format</li>
-  <li>Jira-like managament software(Backend) - Created test in accordence with API documentation in Confluence, conducted tests in Postman</li>
+  <li>Registration form - Conducted E2E testing in registration form using Cypress.</li>
+  <li>Jira-like managament software (Frontend) - Successfully built E2E tests in Cypress. Built tests in OOP and POM format.</li>
+  <li>Jira-like managament software (Backend) - Created tests to ensure the quality of the back-end of the application. Tests were conducted in Postman</li>
 </ol>
 
 
 <h2>Automation Testing Responsibilites</h2>
   <ul>
-    <li>Completed E2E automation testing using Cypress</li>
-    <li>Wrote tests in JavaScript language</li>
-    <li>Used Postman for API testing</li>
+    <li>Visual Code Studio using for writing code</li>
+    <li>Built automation tests using Cypress</li>
+    <li>Wrote tests in OOP and POM format</li>
+    <li>Executed back-end tests in Postman. Created Postman collections.</li>
+    <li>Debugging with IDE</li>
   </ul>
 
   <br>
@@ -55,7 +60,7 @@ Quality Assurance Specialist
     <li>JSON</li>
     <li>CI/CD</li>
     <li>OOP</li>
-    <li>HTML</li>
+    <li>POM</li>
     <li>GitHub</li>
     <li>XML</li>
   </ul>
