@@ -5,7 +5,7 @@ Quality Assurance Specialist
 <p>
   <ul>
     <li>Executed functional, regression and E2E tests to help company achieve better communication between their services and customer</li>
-    <li>Built E2E testing checklist in accordance with project documention in Confluence</li> 
+    <li>Built E2E testing checklist in accordance with project documentation in Confluence</li> 
     <li>Reported bugs in Jira management software</li>
     <li>Every week communicated effectively in team meetings conducted in SCRUM framework</li>
     <li>Built E2E tests in order to check website's functionality. Tests were done with Cypress.</li>  
